@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/populated"
+        android:icon="@drawable/ic_star_24dp"
+        android:title="@string/populated" />
+
+    <item
+        android:id="@+id/moreRated"
+        android:icon="@drawable/ic_import_24dp"
+        android:title="@string/more_rated" />
+
+
+</menu>

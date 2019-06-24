@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MoviesAPI</string>
+    <string name="more_rated">More Rated</string>
+    <string name="populated">Populated</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Msg_Loading_Dialog">cargando...</string>
+</resources>
